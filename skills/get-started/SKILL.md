@@ -1,11 +1,11 @@
 ---
 name: get-started
-description: Walk a new Local Prospects user through connecting their account, checking their credit balance, and running a first Google Maps business search.
+description: Walk a new ProspectLocally user through connecting their account, checking their credit balance, and running a first Google Maps business search.
 ---
 
-# Get started with Local Prospects
+# Get started with ProspectLocally
 
-Local Prospects searches Google Maps for a business niche in one or more locations. Each result is a Google Maps listing with the business name, category, address, phone number, website address, rating, and review count. The user's account connects the first time a tool needs it: Claude Code opens a sign-in page in the browser, and the user signs in there.
+ProspectLocally searches Google Maps for a business niche in one or more locations. Each result is a Google Maps listing with the business name, category, address, phone number, website address, rating, and review count. The user's account connects the first time a tool needs it: Claude Code opens a sign-in page in the browser, and the user signs in there.
 
 Help the user run a first search.
 

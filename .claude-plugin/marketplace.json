@@ -1,8 +1,8 @@
 {
-  "name": "localprospects-plugin",
+  "name": "prospectlocally-plugin",
   "owner": { "name": "EDSDEV INC", "url": "https://prospectlocally.com" },
   "description": "Find local businesses on Google Maps by niche and location, with each business's name, category, address, phone, website address, rating, and reviews.",
   "plugins": [
-    { "name": "local-prospects", "source": "./", "description": "Find local businesses on Google Maps by niche and location, with each business's name, category, address, phone, website address, rating, and reviews." }
+    { "name": "prospectlocally", "source": "./", "description": "Find local businesses on Google Maps by niche and location, with each business's name, category, address, phone, website address, rating, and reviews." }
   ]
 }

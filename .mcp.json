@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "local-prospects": {
+    "prospectlocally": {
       "type": "http",
       "url": "https://app.prospectlocally.com/api/mcp"
     }
