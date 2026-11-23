@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "local-prospects": {
+      "type": "http",
+      "url": "https://app.prospectlocally.com/api/mcp"
+    }
+  }
+}
